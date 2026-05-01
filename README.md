@@ -10,7 +10,7 @@ I currently work as a **research assistant** in computational cognitive science,
 ### 🌱 About me
 
 - 🧠 I work at the intersection of **language, cognition, and computation**
-- 👀 My current research interests include **machine learning, eye-tracking, EEG, and multimodal analysis**
+- 👀 Current topics: **machine learning, eye-tracking, EEG, and multimodal analysis**
 - 🔍 I care about **interpretable analysis**, **reproducible workflows**, and **human-centered research**
 
 ---
@@ -37,16 +37,10 @@ I currently work as a **research assistant** in computational cognitive science,
   <img src="https://img.shields.io/badge/Praat-4B5563?style=flat-square" alt="Praat">
 </p>
 
-### 📌 Selected Projects
-
-- **Multimodal Eye-tracking and EEG Analysis** — master’s thesis
-- **ERP Analysis of Reward Processing** — EEG reproduction + decoding
-- **Intoxicated Speech Detection** — binary and multiclass deep learning in PyTorch
-
 
 
 ---
 
 ### 📫 Contact
 
-[Email](mailto:yanhong16xu@gmail.com) · [GitHub](https://github.com/xuyg16) · [Website](https://xuyg16.github.io)
+[Email](mailto:yanhong16xu@gmail.com) · [GitHub](https://github.com/xuyg16) 
